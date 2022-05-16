@@ -5,6 +5,6 @@
 - 📫 Como contactarme
 - cristian.membreno@tecne.dev
 - Mi sitio web
-- <a href="https://tecne.dev/" target="_blnk">https://tecne.dev/<>
+- <a href="https://tecne.dev/" target="_blank">TECNE.DEV</a>
 
 
