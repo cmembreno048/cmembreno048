@@ -76,18 +76,32 @@ Reconstrucción 3D / Gaussian Splatting. PyTorch, CUDA, optimización GPU.<br/>
 
 > Proyectos desarrollados completos o con contribución destacada.
 
-<p>
-  <a href="https://www.agrobimer.es/" target="_blank" rel="noopener noreferrer">Agrobimer</a> &nbsp;·&nbsp;
-  <a href="https://www.broncesriopar.es/" target="_blank" rel="noopener noreferrer">Bronces Riopar</a> &nbsp;·&nbsp;
-  <a href="https://nosotras.app/" target="_blank" rel="noopener noreferrer">Nosotras</a> &nbsp;·&nbsp;
-  <a href="https://scudea.es/" target="_blank" rel="noopener noreferrer">Scudea</a> &nbsp;·&nbsp;
-  <a href="https://gelbia.com/" target="_blank" rel="noopener noreferrer">Gelbia</a> &nbsp;·&nbsp;
-  <a href="https://www.topllaves.com/" target="_blank" rel="noopener noreferrer">Top Llaves</a> &nbsp;·&nbsp;
-  <a href="https://www.casaruralyeste.es/" target="_blank" rel="noopener noreferrer">Casa Rural Yeste</a> &nbsp;·&nbsp;
-  <a href="https://www.taxmanconsultores.es/" target="_blank" rel="noopener noreferrer">Taxman Consultores</a> &nbsp;·&nbsp;
-  <a href="https://clinicadentalsotocapagan.es/" target="_blank" rel="noopener noreferrer">Clínica Dental Soto Capagán</a> &nbsp;·&nbsp;
-  <a href="https://infinitybrokershn.com/" target="_blank" rel="noopener noreferrer">Infinity Brokers</a> &nbsp;·&nbsp;
-  <a href="https://www.galeriaenmanuel.com/" target="_blank" rel="noopener noreferrer">Galería Enmanuel</a> &nbsp;·&nbsp;
-  <a href="https://www.sunachi.es/" target="_blank" rel="noopener noreferrer">Sunachi</a> &nbsp;·&nbsp;
-  <a href="https://tecne.dev/" target="_blank" rel="noopener noreferrer">tecne.dev</a>
-</p>
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://www.agrobimer.es/" target="_blank" rel="noopener noreferrer">Agrobimer</a></td>
+      <td><a href="https://www.broncesriopar.es/" target="_blank" rel="noopener noreferrer">Bronces Riopar</a></td>
+      <td><a href="https://nosotras.app/" target="_blank" rel="noopener noreferrer">Nosotras</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://scudea.es/" target="_blank" rel="noopener noreferrer">Scudea</a></td>
+      <td><a href="https://gelbia.com/" target="_blank" rel="noopener noreferrer">Gelbia</a></td>
+      <td><a href="https://www.topllaves.com/" target="_blank" rel="noopener noreferrer">Top Llaves</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.casaruralyeste.es/" target="_blank" rel="noopener noreferrer">Casa Rural Yeste</a></td>
+      <td><a href="https://www.taxmanconsultores.es/" target="_blank" rel="noopener noreferrer">Taxman Consultores</a></td>
+      <td><a href="https://clinicadentalsotocapagan.es/" target="_blank" rel="noopener noreferrer">Clínica Dental Soto Capagán</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://infinitybrokershn.com/" target="_blank" rel="noopener noreferrer">Infinity Brokers</a></td>
+      <td><a href="https://www.galeriaenmanuel.com/" target="_blank" rel="noopener noreferrer">Galería Enmanuel</a></td>
+      <td><a href="https://www.sunachi.es/" target="_blank" rel="noopener noreferrer">Sunachi</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://tecne.dev/" target="_blank" rel="noopener noreferrer">tecne.dev</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
